@@ -1,0 +1,22 @@
+body {
+    height: 840px;
+    width: 1250px;
+}
+
+
+caption {
+    text-align: center;
+}
+table{
+    width: 100%;
+    border: 1px solid blue;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+    margin: auto;
+}
+
+th{
+    border: 1px solid black;
+}
